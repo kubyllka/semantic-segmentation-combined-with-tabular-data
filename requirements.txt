@@ -1,0 +1,6 @@
+tensorflow
+pandas
+numpy
+opencv-python
+scikit-learn
+xgboost
